@@ -1,0 +1,37 @@
+.heroImage{
+    max-width:500px;
+}
+
+section{
+    padding: 2em;
+    margin-bottom: 3em;
+}
+
+.offRow{
+    background-color: blueviolet;
+    color:azure
+}
+
+.evenRow{
+    background-color: rgb(138, 10, 6);
+    color:aliceblue
+}
+
+.heroText{
+    font-family: 'Bangers', cursive;
+    font-size: 4em;
+    margin:0;
+    text-transform: uppercase;
+    color:red;
+    text-shadow: 2px 1px #292929;
+    -webkit-text-stroke-width:1px;
+    -webkit-text-stroke-color:blue
+}
+
+.marvelLove{
+    margin-bottom: 3em;
+}
+
+.heroPic{
+    max-width: 200px;
+}
